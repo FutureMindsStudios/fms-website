@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -36,3 +37,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+=======
+# fms-website
+static, public facing site
+>>>>>>> 0da00cdf1fcb2999edcfd7680416a0f073cbb650
